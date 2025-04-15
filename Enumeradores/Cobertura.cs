@@ -4,6 +4,7 @@
     {
         Chocolate,
         Morango,
-        Caramelo
+        Caramelo,
+        SemCobertura
     }
 }

@@ -6,9 +6,15 @@ using System.Threading.Tasks;
 
 namespace Sorveteria.Enumeradores
 {
-    public enum StatusProduto
+    public enum Sabor
     {
-        Disponivel,
-        Indisponivel
+        Chocolate,
+        Creme,
+        Morango,
+        Flocos,
+        Coco,
+        CremeAvelã,
+        MentaComChocolate,
+        Maracujá
     }
 }
