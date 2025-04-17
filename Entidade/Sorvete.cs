@@ -25,7 +25,7 @@ namespace Sorveteria.Entidade
             Status = status;
             Categoria = CategoriaProduto.Sorvete;
 
-            Preco = Calculos.CalcularPrecoSorvete(sabor, tipo, tamanho, possuiCobertura, cobertura, possuiAdicionais, adicionais, status);
+        Preco = Calculos.CalcularPrecoSorvete(sabor, tipo, tamanho, possuiCobertura, cobertura, possuiAdicionais, adicionais, status);
         }
     }
 }
